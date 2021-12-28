@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1587060731 source:c:\users\turke\desktop\bilkent\cs202\hw3\maxheap1.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"maxHeap1.h"
+
+1587060731 c:\users\turke\desktop\bilkent\cs202\hw3\maxheap1.h
+	<iostream>
+
+1586943374 source:c:\users\turke\desktop\bilkent\cs202\hw3\main.cpp
+	"maxHeap1.h"
+	<iostream>
+
+1587060969 source:c:\users\turke\desktop\bilkent\cs202\hw3\simulator.cpp
+	"maxHeap1.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+

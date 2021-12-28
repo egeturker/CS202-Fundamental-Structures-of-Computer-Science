@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589209746 source:c:\users\turke\desktop\bilkent\cs202\hw4\hashtable.cpp
+	<iostream>
+	"HashTable.h"
+
+1589208985 c:\users\turke\desktop\bilkent\cs202\hw4\hashtable.h
+	<iostream>
+
+1589209756 source:c:\users\turke\desktop\bilkent\cs202\hw4\main.cpp
+	"HashTable.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1583413633 source:c:\users\turke\desktop\bilkent\cs202\hw1\sorting.cpp
+	"sorting.h"
+	"auxArrayFunctions.h"
+	<iostream>
+	<time.h>
+
+1583398608 c:\users\turke\desktop\bilkent\cs202\hw1\sorting.h
+
+1583400736 source:c:\users\turke\desktop\bilkent\cs202\hw1\main.cpp
+	<iostream>
+	"sorting.h"
+	"auxArrayFunctions.h"
+
+1583341386 c:\users\turke\desktop\bilkent\cs202\hw1\auxarrayfunctions.h
+
+1583344758 source:c:\users\turke\desktop\bilkent\cs202\hw1\auxarrayfunctions.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	"auxArrayFunctions.h"
+

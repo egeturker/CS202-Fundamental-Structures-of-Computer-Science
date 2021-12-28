@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1590185796 source:c:\users\turke\desktop\bilkent\cs202\hw5\friendnet.cpp
+	<iostream>
+	<string>
+	"FriendNet.h"
+	<fstream>
+	<sstream>
+
+1590185533 c:\users\turke\desktop\bilkent\cs202\hw5\friendnet.h
+	<string>
+
+1590184804 source:c:\users\turke\desktop\bilkent\cs202\hw5\main.cpp
+	"FriendNet.h"
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+

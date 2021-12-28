@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1585734864 source:c:\users\turke\desktop\bilkent\cs202\hw2\hw2\decisiontree.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+	<sstream>
+	"DecisionTree.h"
+
+1585734838 c:\users\turke\desktop\bilkent\cs202\hw2\hw2\decisiontree.h
+	"DecisionTreeNode.h"
+
+1585735019 source:c:\users\turke\desktop\bilkent\cs202\hw2\hw2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"DecisionTree.h"
+
+1585687521 c:\users\turke\desktop\bilkent\cs202\hw2\hw2\decisiontreenode.h
+
+1585656859 source:c:\users\turke\desktop\bilkent\cs202\hw2\hw2\decisiontreenode.cpp
+	<iostream>
+	"DecisionTreeNode.h"
+
